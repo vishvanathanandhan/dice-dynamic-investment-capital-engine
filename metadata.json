@@ -1,0 +1,6 @@
+{
+  "name": "DICE - Dynamic Investment Capital Engine",
+  "description": "An India-focused mutual fund suitability discovery and behavioral profiling platform powered by the DICE Engine and NISM principles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
